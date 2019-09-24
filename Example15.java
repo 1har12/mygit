@@ -5,7 +5,7 @@ class Single{
 return INSTANCE;
 }
 }
-class Example{
+class Example15{
 public static void main(String[ ] args){
    Single s1=Single.getInstance();
    Single s2=Single.getInstance();
